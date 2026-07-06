@@ -1,16 +1,68 @@
-# React + Vite
+## 🎓 Academic Performance Hub
+A modern Academic Performance Management System built with React.js, Tailwind CSS, and Firebase Authentication.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🌐 Live Demo
+https://academic-performance-hub-three.vercel.app/
+## 💻 GitHub Repository
+https://github.com/Raghav335/academic-performance-hub
 
-Currently, two official plugins are available:
+## ✨ Features
+🔐 Firebase Authentication (Login / Register / Forgot Password)
+📊 Dashboard
+🎓 SGPA & CGPA Calculator
+📈 Performance Analytics
+🤖 AI Study Insights
+📄 PDF Report Generation
+📝 Calculation History
+👤 Student Profile
+⚙️ Settings
+📞 Contact Page
+📱 Responsive Design
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🛠️ Tech Stack
+React.js
+Tailwind CSS
+React Router DOM
+Firebase Authentication
+React Hot Toast
+React Icons
+Vite
+Local Storage
+Vercel
 
-## React Compiler
+## 🚀 Installation
+git clone https://github.com/Raghav335/academic-performance-hub.git
+cd academic-performance-hub
+npm install
+npm run dev
+Production Build:
+npm run build
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📂 Project Structure
+src/
+├── components/
+├── context/
+├── firebase/
+├── pages/
+├── services/
+├── App.jsx
+├── AppRoutes.jsx
+└── main.jsx
+## 👨‍💻 Developer
+Raghav Gupta
+🎓 BCA Student
+🏫 Bareilly College, Bareilly (MJPRU)
+📧 Email: raghavgupta805288@gmail.com
+💻 GitHub: https://github.com/Raghav335
+💼 LinkedIn: https://www.linkedin.com/in/raghav-gupta-8a9152328
 
-## Expanding the ESLint configuration
+## 📌 Future Improvements
+AI Chat Assistant
+Cloud Database
+Excel Export
+Notification System
+Dark / Light Theme
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ⭐ Support
+If you like this project, please ⭐ star the repository.
+## Made with ❤️ by Raghav Gupta
